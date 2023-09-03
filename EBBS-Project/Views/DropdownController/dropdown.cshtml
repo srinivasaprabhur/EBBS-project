@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Attach a change event listener to the first dropdown
+            $('#firstDropdown').change(function () {
+                var selectedValue = $(this).val();
+
+                // Make an AJAX call to fetch data for the second dropdown
+                $.ajax({
+                    url: 'GetDataForSecondDropdown',
+                    type: 'GET',
+                    data: { selectedValue: selectedValue },
+                    success: function (data) {
+                        // Populate the second dropdown with data
+                        $('#secondDropdown').empty();
+                        $.each(data, function (index, item) {
+                            $('#secondDropdown').append($('<option>', {
+                                value: item.Value,
+                                text: item.Text
+                            }));
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <select id="firstDropdown">
+        <!-- Populate the first dropdown options here -->
+    </select>
+
+    <select id="secondDropdown">
+        <!-- The second dropdown will be populated dynamically through AJAX -->
+    </select>
+</body>
+</html>

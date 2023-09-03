@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBSMvc", "EBBS-Project\EBBSMvc.csproj", "{92FB4275-9A8A-499D-A850-1B9EEE841878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBSApi", "EBBSapi\EBBSApi.csproj", "{0084BD4A-A43F-4BF2-BAB1-3F4EF4AD2B92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBS.DBEngine", "EBBS.DBEngine\EBBS.DBEngine.csproj", "{C7244273-6E8B-4C50-9BB5-1994F8BCBFCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBS.Framework", "EBBS.Framework\EBBS.Framework.csproj", "{35B82610-E43B-4031-A82D-944A224AF9BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBS.Repository", "EBBS.Repository\EBBS.Repository.csproj", "{945206B0-B68B-4A25-A62C-774D9DEC9624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBS.Service", "EBBS.Service\EBBS.Service.csproj", "{A14183F1-0979-4CC6-B370-E65D06C71C81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBBS.Modoel", "EBBS.Modoel\EBBS.Modoel.csproj", "{576A4296-556C-438E-9988-E09E8E0E2316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FB4275-9A8A-499D-A850-1B9EEE841878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FB4275-9A8A-499D-A850-1B9EEE841878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FB4275-9A8A-499D-A850-1B9EEE841878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FB4275-9A8A-499D-A850-1B9EEE841878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0084BD4A-A43F-4BF2-BAB1-3F4EF4AD2B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0084BD4A-A43F-4BF2-BAB1-3F4EF4AD2B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0084BD4A-A43F-4BF2-BAB1-3F4EF4AD2B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0084BD4A-A43F-4BF2-BAB1-3F4EF4AD2B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7244273-6E8B-4C50-9BB5-1994F8BCBFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7244273-6E8B-4C50-9BB5-1994F8BCBFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7244273-6E8B-4C50-9BB5-1994F8BCBFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7244273-6E8B-4C50-9BB5-1994F8BCBFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B82610-E43B-4031-A82D-944A224AF9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B82610-E43B-4031-A82D-944A224AF9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B82610-E43B-4031-A82D-944A224AF9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B82610-E43B-4031-A82D-944A224AF9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945206B0-B68B-4A25-A62C-774D9DEC9624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945206B0-B68B-4A25-A62C-774D9DEC9624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945206B0-B68B-4A25-A62C-774D9DEC9624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945206B0-B68B-4A25-A62C-774D9DEC9624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14183F1-0979-4CC6-B370-E65D06C71C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14183F1-0979-4CC6-B370-E65D06C71C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14183F1-0979-4CC6-B370-E65D06C71C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14183F1-0979-4CC6-B370-E65D06C71C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576A4296-556C-438E-9988-E09E8E0E2316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576A4296-556C-438E-9988-E09E8E0E2316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576A4296-556C-438E-9988-E09E8E0E2316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576A4296-556C-438E-9988-E09E8E0E2316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CF652B-0CE5-4361-8921-4D38F62D72D7}
+	EndGlobalSection
+EndGlobal

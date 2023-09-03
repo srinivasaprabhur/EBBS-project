@@ -1,0 +1,12 @@
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\bin\Debug\net7.0\EBBS.DBEngine.deps.json
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\bin\Debug\net7.0\EBBS.DBEngine.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\bin\Debug\net7.0\EBBS.DBEngine.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.csproj.AssemblyReference.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.AssemblyInfoInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.AssemblyInfo.cs
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.csproj.CoreCompileInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\refint\EBBS.DBEngine.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\EBBS.DBEngine.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.DBEngine\obj\Debug\net7.0\ref\EBBS.DBEngine.dll

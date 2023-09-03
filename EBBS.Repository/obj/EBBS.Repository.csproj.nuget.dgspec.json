@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Repository\\EBBS.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\EBBS.DBEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\EBBS.DBEngine.csproj",
+        "projectName": "EBBS.DBEngine",
+        "projectPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\EBBS.DBEngine.csproj",
+        "packagesPath": "C:\\Users\\PARMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PARMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\EBBS.Modoel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\EBBS.Modoel.csproj",
+        "projectName": "EBBS.Modoel",
+        "projectPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\EBBS.Modoel.csproj",
+        "packagesPath": "C:\\Users\\PARMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PARMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Repository\\EBBS.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Repository\\EBBS.Repository.csproj",
+        "projectName": "EBBS.Repository",
+        "projectPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Repository\\EBBS.Repository.csproj",
+        "packagesPath": "C:\\Users\\PARMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PARMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\EBBS.DBEngine.csproj": {
+                "projectPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.DBEngine\\EBBS.DBEngine.csproj"
+              },
+              "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\EBBS.Modoel.csproj": {
+                "projectPath": "C:\\Users\\PARMIN\\Desktop\\EB BILLING SYSTEM\\Ebbillibgsystem\\EBBS-Project\\EBBS.Modoel\\EBBS.Modoel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

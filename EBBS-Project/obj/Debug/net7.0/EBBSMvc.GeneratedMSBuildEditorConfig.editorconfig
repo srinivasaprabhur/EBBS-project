@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EBBS_Project
+build_property.RootNamespace = EBBS_Project
+build_property.ProjectDir = C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS-Project\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS-Project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Dashboard/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/DropdownController/dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJvcGRvd25Db250cm9sbGVyXGRyb3Bkb3duLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/AAddServiceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQUFkZFNlcnZpY2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/Enterbill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRW50ZXJiaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnbmluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/ViewAddBillDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVmlld0FkZEJpbGxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Login/ViewServiceNumber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVmlld1NlcnZpY2VOdW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ez92vkjm1u
+
+[C:/Users/PARMIN/Desktop/EB BILLING SYSTEM/Ebbillibgsystem/EBBS-Project/EBBS-Project/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-1nohfonfwg

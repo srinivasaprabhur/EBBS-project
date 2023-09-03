@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Form</title>
+    <style>
+        /* Basic CSS styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        .btn-submit {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .btn-submit:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dropdown Form</h1>
+        <form>
+            <div class="form-group">
+                <label for="district">District:</label>
+                <select id="district" name="district">
+                    <option value="district1"> Tiruvannamalai 101</option>
+                   
+                    <!-- Add more district options here -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="taluk">Taluk:</label>
+                <select id="taluk" name="taluk">
+                    <option value="taluk1"></option>
+                    <option value="taluk2"></option>
+                    <option value="taluk1"></option>
+                    <option value="taluk1"></option>
+                    <option value="taluk1"></option>
+                 
+                    <!-- Add more taluk options here -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="village">Village:</label>
+                <select id="village" name="village">
+                    <option value="village1">Village 1</option>
+                    <option value="village2">Village 2</option>
+                    <!-- Add more village options here -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="service">Service:</label>
+                <select id="service" name="service">
+                    <option value="service1"> Home Service</option>
+                    <option value="service2">Gaden Service</option>
+                    <option value="service2">Agriculture Service</option>
+                    <!-- Add more service options here -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="serviceNumber">Service Number:</label>
+                <input type="text" id="serviceNumber" name="serviceNumber" />
+            </div>
+
+            <div class="form-group">
+                <label for="input1">Input 1:</label>
+                <input type="text" id="input1" name="input1" />
+            </div>
+
+            <div class="form-group">
+                <label for="input2">Input 2:</label>
+                <input type="text" id="input2" name="input2" />
+            </div>
+
+            <div class="form-group">
+                <label for="input3">Input 3:</label>
+                <input type="text" id="input3" name="input3" />
+            </div>
+
+            <div class="form-group">
+                <label for="input4">Input 4:</label>
+                <input type="text" id="input4" name="input4" />
+            </div>
+
+            <button type="submit" class="btn-submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

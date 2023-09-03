@@ -1,0 +1,12 @@
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\bin\Debug\net7.0\EBBS.Framework.deps.json
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\bin\Debug\net7.0\EBBS.Framework.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\bin\Debug\net7.0\EBBS.Framework.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.csproj.AssemblyReference.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.AssemblyInfoInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.AssemblyInfo.cs
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.csproj.CoreCompileInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\refint\EBBS.Framework.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\EBBS.Framework.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Framework\obj\Debug\net7.0\ref\EBBS.Framework.dll

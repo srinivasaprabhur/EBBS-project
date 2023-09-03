@@ -1,0 +1,37 @@
+﻿<div>
+    <a asp-action="Enterbill" asp-controller="Login"> Add User Bill </a>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table id="tblStudent" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Action</th>
+                    <th>ServiceNumber</th>
+                    <th>SrviceType</th>
+                    <th>ConsumedUnit</th>
+                    <th>Equipment Model</th>
+                    <th>fromUnit</th>
+                    <th>ToUnit</th>
+                    <th>PricePerUint/th>
+                    <th>Customer Phone</th>
+
+                </tr>
+            </thead>
+            <tbody id="ss">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+<script src="~/js/areas/equipment/services/userdetails.js"></script>
+<script>
+    $(document).ready(function () {
+        GetStudentDetails();
+    });
+
+</script>

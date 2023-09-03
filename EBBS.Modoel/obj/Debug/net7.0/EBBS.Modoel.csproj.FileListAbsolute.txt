@@ -1,0 +1,12 @@
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\bin\Debug\net7.0\EBBS.Modoel.deps.json
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\bin\Debug\net7.0\EBBS.Modoel.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\bin\Debug\net7.0\EBBS.Modoel.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.csproj.AssemblyReference.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.AssemblyInfoInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.AssemblyInfo.cs
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.csproj.CoreCompileInputs.cache
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\refint\EBBS.Modoel.dll
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\EBBS.Modoel.pdb
+C:\Users\PARMIN\Desktop\EB BILLING SYSTEM\Ebbillibgsystem\EBBS-Project\EBBS.Modoel\obj\Debug\net7.0\ref\EBBS.Modoel.dll
